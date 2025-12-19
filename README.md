@@ -38,3 +38,36 @@ Puoi leggere e commentare tutti gli articoli della Costituzione della Tribù Pla
 www.sfidaalsistemamonetario.wordpress.com
 
 Contattaci immediatamente per partecipare alla costruzione del codice: tribu.planetaria@proton.me
+
+# 🛠️ Progetto: Fabbrica dei Punti
+> **Documento di Visione Tecnica per Artigiani del Codice**
+
+## 1. La Filosofia: Dal Debito al Fare
+L'attuale sistema economico è un software difettoso che genera debito per ogni unità di valore creata. La **Fabbrica dei Punti** è una "patch" di sistema: un Ledger (registro) che non riconosce il debito, ma solo l'energia immessa nel sistema (il Fare).
+
+## 2. Architettura del Sistema (I Tre Pilastri)
+
+### A. Il Sensore di Valore (Input)
+Il sistema si basa sulla **validazione sociale**.
+* **Meccanismo:** Trasformazione dell'Apprezzamento Sociale (Like qualificati, recensioni verificate, attestati di lavoro) in dati grezzi.
+* **Sfida Tecnica:** Algoritmo di pesatura dell'autorevolezza (Anti-spam di valore).
+
+### B. Il Motore di Conversione (L'Algoritmo)
+Il cuore logico è il **"Punteggio Formativo"**.
+* **Logica:** Conversione trasparente e immutabile di input sociali in Punti Moneta.
+* **Emissione:** La moneta è emessa dai membri della Tribù attraverso il mutuo riconoscimento.
+
+### C. Il Ledger Etico (Il Database)
+* **Open Source:** Trasparenza totale del codice (GPLv3).
+* **Decentralizzato:** Nessuna autorità centrale.
+* **Anti-Accumulo:** Progettato per la circolazione, non per la rendita.
+
+## 3. Stack Tecnologico Suggerito
+Cerchiamo artigiani esperti in:
+* **Distributed Ledger:** (Blockchain, Holochain, IPFS).
+* **Smart Contracts:** Per l'automazione della conversione.
+* **UI/UX:** Interfacce semplici per lavoratori manuali, artigiani e maker.
+
+---
+📜 *Se usi questo codice per costruire strumenti di libertà, il codice appartiene a tutti.*
+
