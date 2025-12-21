@@ -71,3 +71,47 @@ Cerchiamo artigiani esperti in:
 ---
 📜 *Se usi questo codice per costruire strumenti di libertà, il codice appartiene a tutti.*
 
+🌐 Progetto: "Tribù Digital" – Social Network & Ledger del Fare
+Questo documento definisce l'architettura di una piattaforma integrata che unisce l'interazione sociale alla creazione di valore economico reale, quindi il software di contabilità andrà associato ad un nuovo Social Network che chiameremo Tribu Planetaria 
+1. Visione d'Insieme
+Il sistema non è solo una vetrina, ma un Social Network Economico. A differenza dei social attuali che estraggono dati per profitto centralizzato, "Tribù Digital" trasforma l'apprezzamento della comunità in potere d'acquisto per l'utente.
+2. Le Due Componenti Chiave
+A. La Vetrina del Fare (Social Network)
+L'interfaccia utente è progettata per documentare il lavoro e il talento.
+* Post di Produzione: Gli utenti pubblicano i progressi del loro "fare" (foto di un mobile artigianale, un video di una lezione, il codice di un software).
+* Meccanismo di "Like Qualificato": Il "like" non è un semplice clic, ma un'attestazione di valore. Il sistema pesa l'interazione in base alla reputazione di chi la esprime (es. il voto di un esperto in quel settore genera più punti).
+* Botteghe Digitali: Spazi collettivi dove più utenti possono collaborare a un progetto e dividere automaticamente i punti generati.
+B. Il Ledger Etico (Software di Contabilità)
+Il motore invisibile che gestisce la moneta.
+* Coniazione (Minting): I punti vengono creati solo quando la comunità valida un post di valore. Non c'è debito alla base, solo riconoscimento del merito.
+* Transazioni Peer-to-Peer: Gli utenti possono usare i punti accumulati per "acquistare" il fare altrui direttamente nel social (es. "Pago 50 punti per questa consulenza").
+* Trasparenza Totale: Ogni punto è tracciabile. La comunità può verificare che non ci siano emissioni arbitrarie.
+3. L'Algoritmo di Conversione (Punteggio Formativo)
+Il passaggio cruciale è la formula che trasforma l'interazione sociale in moneta. Il calcolo avviene tramite Smart Contract per garantire l'imparzialità:
+Pemessi =∑(Vi ×Ri )×Kcat
+* Vi : Volume delle interazioni ricevute.
+* Ri : Reputazione (peso) degli utenti che hanno interagito.
+* Kcat : Moltiplicatore di categoria (es. attività di utilità sociale o beni di prima necessità hanno un coefficiente più alto).
+
+4. Specifiche per gli Artigiani del Codice
+Cerchiamo contributori per costruire questa "Full-Stack Revolution":
+* Mobile/Web App: Un'interfaccia fluida e pragmatica per chi lavora (pensata per essere usata in officina, in campo o in studio).
+* Distributed Ledger Technology (DLT): Implementazione su architetture decentralizzate (Holochain o simili) per garantire che nessuno possa "spegnere" il social o manipolare i saldi.
+* Identità Digitale Sovrana: L'utente è l'unico proprietario dei propri dati e della propria reputazione.
+
+2. Le Due Componenti Chiave (Versione Aggiornata)
+A. La Vetrina del Fare (Social Network)
+L'interfaccia utente documenta il lavoro e permette la validazione attraverso tre flussi di interazione:
+1. L'Apprezzamento Rapido (Like): Un segnale di interesse immediato che genera un'emissione di punti di base.
+2. La Recensione Quantitativa (Sistema 5 Stelle): Il cuore della validazione. L'utente non si limita a un clic, ma esprime un giudizio sul merito (qualità, utilità, estetica). Una media alta su molte recensioni moltiplica il valore dei punti emessi.
+3. Il Contributo Qualitativo (Commenti e Recensioni Scritte): * Fase 1 (Attuale): Il commento agisce come moltiplicatore di visibilità e prova di interazione reale.
+    * Fase 2 (Evoluzione IA): Integrazione di un'IA di Analisi del Merito. Il sistema non conterà solo quanticommenti ricevi, ma un'IA leggerà il contenuto per distinguere un complimento superficiale da una recensione tecnica approfondita, assegnando pesi diversi ai punti generati in base al valore intellettuale del feedback.
+
+3. L'Algoritmo di Conversione (Punteggio Formativo)
+La formula matematica viene raffinata per includere la "pignoleria" necessaria:
+Pemessi =[(L×Kl )+(S×Ns ×Ks )+(C×Kc ×IAfactor )]×Rpeso
+* L / Kl : Numero di Like e relativo coefficiente.
+* S / Ns : Media delle Stelle ricevute e numero di recensioni.
+* C / IAfactor : Numero di commenti e fattore di valore analizzato dall'Intelligenza Artificiale (qualità semantica del feedback).
+* Rpeso : Il peso reputazionale di chi ha interagito (il voto di un esperto vale più di quello di un novizio).
+
