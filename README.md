@@ -1,5 +1,5 @@
 # appello-agli-artigiani-del-codice
-creazione nuovo software per gestire un portafoglio virtuale
+creazione nuovo software per gestire un portafoglio virtuale e un nuovo Social Network
 
 💻 Appello Open Source: Artigiani del Codice, Vogliamo Costruire la Fabbrica dei Punti
 Sei stanco di creare valore e ricevere debito? È ora di costruire la Moneta che remunera il Fare.
