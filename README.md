@@ -115,3 +115,27 @@ Pemessi =[(L×Kl )+(S×Ns ×Ks )+(C×Kc ×IAfactor )]×Rpeso
 * C / IAfactor : Numero di commenti e fattore di valore analizzato dall'Intelligenza Artificiale (qualità semantica del feedback).
 * Rpeso : Il peso reputazionale di chi ha interagito (il voto di un esperto vale più di quello di un novizio).
 
+La Vetrina del Fare: Il Social Network della Tribù Planetaria
+Per rendere operativa la Tribù, l'infrastruttura digitale deve evolvere da semplice database a un vero e proprio Ecosistema Sociale. La "Vetrina del Fare" è l'interfaccia dove il valore viene generato, mostrato e scambiato in tempo reale.
+1. Il Concetto: Ogni Post è "Sacrum Facere"
+A differenza dei social network tradizionali, nella Tribù non esiste distinzione tra "tempo libero" e "tempo produttivo". Qualsiasi contenuto condiviso è un atto del fare:
+* Settore Manuale e Industriale: Manufatti professionali, opere d'artigianato, prototipi.
+* Settore Intellettuale e Tecnico: Pratiche tecniche (geometri, architetti), consulenze, righe di codice.
+* Settore Artistico ed Estetico: Canzoni, poesie, riflessioni filosofiche, ma anche l'estetica personale (selfie, bellezza). Tutto ciò che genera apprezzamento umano è valore.
+2. Monetizzazione del Consenso (Like = Punti)
+Il sistema automatizza la creazione di moneta attraverso il feedback della comunità:
+* Conversione Diretta: Gli apprezzamenti (Like) e le valutazioni a cinque stelle ricevuti sui post si trasformano in Punti Moneta accreditati direttamente nel wallet del creatore.
+* Algoritmo di Valore: Il software calcola l'emissione di punti in base alla qualità e alla quantità del consenso ricevuto, eliminando l'intermediazione bancaria.
+3. Il Motore di Ricerca del Fare
+La piattaforma è organizzata per settori merceologici e professionali, permettendo una navigazione mirata tramite un algoritmo di ricerca avanzato:
+* Categorie: Artigianato manuale, Artigianato semi-industriale, Prodotti industriali, Servizi Professionali, Arte e Spettacolo, Estetica e Lifestyle.
+* Annunci e Feed: Una Home Page dinamica propone contenuti basati sui profili seguiti e sulle necessità della comunità locale e globale.
+4. Integrazione con l'Economia Reale (Il Ponte)
+Il mondo professionistico e commerciale utilizza la Vetrina per integrare il sistema a punti nell'economia corrente:
+* Sconti in Punti: Professionisti e negozianti postano i propri servizi/prodotti applicando una quota di sconto accettata in Punti Tribù (es. "Perizia tecnica: 400€ + 100 Punti").
+* Circolarità: Il professionista guadagna punti sia dalla vendita che dai Like ricevuti per la qualità del suo post informativo o promozionale.
+5. Chiamata per Artigiani del Codice (Devs Call)
+Il progetto è in Open Source. Ricerchiamo sviluppatori che vogliano contribuire alla creazione di:
+* Ledger Distribuito: Per la gestione sicura dei wallet.
+* Interfaccia Social: Per la pubblicazione e categorizzazione dei contenuti.
+* Algoritmo di Consenso: Per la conversione automatizzata dei feedback in moneta
